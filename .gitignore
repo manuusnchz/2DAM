@@ -1,0 +1,9 @@
+# Java
+*.class
+out/
+bin/
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
