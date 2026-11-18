@@ -14,7 +14,7 @@ Durante el curso construyes **tu propia aplicación de escritorio de gestión** 
 
 | Hito | Qué | Se trabaja en clase | Fecha tope (23:59) | Peso |
 | --- | --- | --- | --- | --- |
-| **0** | Tu aplicación en papel: ficha y bocetos · [instrucciones](Hito0/) | jue 19/11 | dom 22/11 | 10 % |
+| **0** | Tu aplicación en papel: ficha y bocetos · [instrucciones](Hito0/) · [ejemplos](Hito0/ejemplos/) | jue 19/11 | dom 22/11 | 10 % |
 | **1** | Ventanas, inicio de sesión y menú | hasta vie 27/11 | dom 29/11 | 25 % |
 | **2** | Formulario y tabla | hasta vie 4/12 | mié 9/12 | 30 % |
 | **3** | Componente propio y guardar datos | hasta jue 17/12 | jue 17/12 | 35 % |
@@ -52,3 +52,4 @@ Los hitos están pensados para terminarlos en clase. Si no te da tiempo, lo term
 | --- | --- |
 | [Enunciado del proyecto](Proyecto_DI_Enunciado.pdf) | Normas, requisitos de cada hito y evaluación |
 | [Hito 0](Hito0/) | Plantilla `FICHA.md`, ejemplo y plantilla de bocetos (opcional) |
+| [Ejemplos del Hito 0](Hito0/ejemplos/) | Tres ejemplos completos (ficha + bocetos): gimnasio, biblioteca y taller |
