@@ -28,7 +28,7 @@ Los hitos están pensados para terminarlos en clase. Si no te da tiempo, lo term
 ## 📤 Cómo entregar
 
 1. Un repositorio **público** llamado `DI-Nombre-Apellido` (sin tildes ni espacios), **uno solo para todo el curso**.
-2. Pon tu usuario de GitHub, el enlace y tu temática en la **hoja de repositorios de DI** (te la paso en clase).
+2. Pon tu usuario de GitHub, el enlace y tu temática en tu fila de la **[hoja de repositorios de DI](https://docs.google.com/spreadsheets/d/18zV8JIvzLcTHVi6TbB34dGtFSXZj7OixL6HQEfvPIKE/edit)** (Google Sheets). Rellena **solo tu fila**.
 3. Estructura obligatoria (proyecto Maven `dam.di` / `proyecto-di`, clase principal `dam.di.Aplicacion`, Java 25):
 
    ```
@@ -52,5 +52,6 @@ Los hitos están pensados para terminarlos en clase. Si no te da tiempo, lo term
 | --- | --- |
 | [Enunciado del proyecto](Proyecto_DI_Enunciado.pdf) | Normas, requisitos de cada hito y evaluación |
 | [Diapositivas de la sesión 1 (jue 19/11)](T1_Introduccion_diseno_interfaces/Sesion01_Diapositivas.pdf) | Presentación, T1, «¿Qué falla en esta pantalla?», Hito 0 y puesta en marcha (IDE, proyecto Maven y repositorio) |
+| [📝 Hoja de repositorios de DI](https://docs.google.com/spreadsheets/d/18zV8JIvzLcTHVi6TbB34dGtFSXZj7OixL6HQEfvPIKE/edit) | Pon aquí tu usuario de GitHub, el enlace a tu repositorio y tu temática |
 | [Hito 0](Hito0/) | Plantilla `FICHA.md`, ejemplo y plantilla de bocetos (opcional) |
 | [Ejemplos del Hito 0](Hito0/ejemplos/) | Tres ejemplos completos (ficha + bocetos): gimnasio, biblioteca y taller |
