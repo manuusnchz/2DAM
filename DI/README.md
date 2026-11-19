@@ -51,5 +51,6 @@ Los hitos están pensados para terminarlos en clase. Si no te da tiempo, lo term
 | | |
 | --- | --- |
 | [Enunciado del proyecto](Proyecto_DI_Enunciado.pdf) | Normas, requisitos de cada hito y evaluación |
+| [Diapositivas de la sesión 1 (jue 19/11)](T1_Introduccion_diseno_interfaces/Sesion01_Diapositivas.pdf) | Presentación, T1, «¿Qué falla en esta pantalla?», Hito 0 y puesta en marcha (IDE, proyecto Maven y repositorio) |
 | [Hito 0](Hito0/) | Plantilla `FICHA.md`, ejemplo y plantilla de bocetos (opcional) |
 | [Ejemplos del Hito 0](Hito0/ejemplos/) | Tres ejemplos completos (ficha + bocetos): gimnasio, biblioteca y taller |
